@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\VSCode\\start\\start\\start.csproj": {}
+    "R:\\VSCode\\bridgelabz\\start\\start\\start.csproj": {}
   },
   "projects": {
-    "R:\\VSCode\\start\\start\\start.csproj": {
+    "R:\\VSCode\\bridgelabz\\start\\start\\start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\VSCode\\start\\start\\start.csproj",
+        "projectUniqueName": "R:\\VSCode\\bridgelabz\\start\\start\\start.csproj",
         "projectName": "start",
-        "projectPath": "R:\\VSCode\\start\\start\\start.csproj",
+        "projectPath": "R:\\VSCode\\bridgelabz\\start\\start\\start.csproj",
         "packagesPath": "C:\\Users\\Rushikesh\\.nuget\\packages\\",
-        "outputPath": "R:\\VSCode\\start\\start\\obj\\",
+        "outputPath": "R:\\VSCode\\bridgelabz\\start\\start\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rushikesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
